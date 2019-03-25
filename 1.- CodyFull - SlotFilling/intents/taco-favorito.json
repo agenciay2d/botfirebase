@@ -1,0 +1,42 @@
+{
+  "id": "3bc72c7d-6fe7-4267-ad31-a0d1d2603a9f",
+  "name": "taco-favorito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e0440ab-9f55-43c7-935d-20248bbf5568",
+          "required": true,
+          "dataType": "@tacos",
+          "name": "tacos",
+          "value": "$tacos",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es tu taco favorito?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

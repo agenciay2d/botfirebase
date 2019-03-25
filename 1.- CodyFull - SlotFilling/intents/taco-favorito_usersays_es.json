@@ -1,0 +1,70 @@
+[
+  {
+    "id": "5b8b16e3-82fc-412b-9639-d617e0dbc335",
+    "data": [
+      {
+        "text": "los tacos ",
+        "userDefined": false
+      },
+      {
+        "text": "gobernador",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50690230-6fbc-42fb-a733-20e068d97cb8",
+    "data": [
+      {
+        "text": "los tacos de ",
+        "userDefined": false
+      },
+      {
+        "text": "canasta",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3c981d4-7803-4e27-9c1d-1f75fb22aa3e",
+    "data": [
+      {
+        "text": "mis tacos son de ",
+        "userDefined": false
+      },
+      {
+        "text": "bistec",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20dc5cb3-b90b-42c6-a593-56701df4dcb1",
+    "data": [
+      {
+        "text": "mis tacos favoritos son de ",
+        "userDefined": false
+      },
+      {
+        "text": "pastor",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
