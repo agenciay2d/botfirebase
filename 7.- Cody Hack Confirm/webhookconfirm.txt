@@ -1,0 +1,10 @@
+//
+ exports.confirm = functions.https.onRequest((request, response) => {
+   let params = request.body.result.parameters;
+   response.send({
+     speech:
+     `${params.name} tu registro para un equipo de ${params.hacker} con ${params.number} personas, que ${params.time} han ido a un hack se ha realizado con exito,
+     te enviare tus boletos al correo ${params.email} de inmediato.
+     `
+   });
+ });

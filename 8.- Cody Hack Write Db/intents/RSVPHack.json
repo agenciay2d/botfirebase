@@ -1,0 +1,137 @@
+{
+  "id": "f3e63a5f-b137-43ea-ad57-14798fa5f4cf",
+  "name": "RSVPHack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RSVPHack",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e1d4c68-bdd8-4eb5-bbb0-d45100066606",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Claro, para comenzar tu registro, ¿Podrías  proporcionarme tu nombre, por favor?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Cuál es tú nombre?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a47984e0-7b8f-477d-981a-7b0fc438f1f4",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Muy bien entonces, ¿Cuántas personas hay en el equipo?"
+            },
+            {
+              "lang": "es",
+              "value": "Ok, ¿Cuántos integrantes tiene tu equipo?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "7e225252-3490-4fd8-ac75-6ccf6e576a5f",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Excelente, ¿A que dirección de correo electrónico debería enviar tus boletos?"
+            },
+            {
+              "lang": "es",
+              "value": "Gracias, ¿Cuál es la dirección de correo a la que enviaré los boletos?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ac652d1e-6278-45b1-b71d-df737b37dc88",
+          "required": true,
+          "dataType": "@type-of-hacker",
+          "name": "hacker",
+          "value": "$hacker",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cómo describirías a los integrantes de tu equipo? (Makers, Devs, Negocios)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "c802a16c-2bd6-4803-a007-2c35ab7801ff",
+          "required": true,
+          "dataType": "@first-time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Genial, ¿Es tu primer hackathon?"
+            },
+            {
+              "lang": "es",
+              "value": "Por último, ¿Has ido a un hackathon antes?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "es",
+          "title": "CódigoFacilito Hacks",
+          "formattedText": "Gracias, tu registro se ha realizado con éxito. Nos vemos en el Hack.",
+          "image": {
+            "url": "https://www.monitoruniversitario.com.mx/wp-content/uploads/IMG_6776.jpg",
+            "accessibilityText": "Fotografía Oficial Last Hack"
+          },
+          "buttons": [
+            {
+              "title": "CódigoFacilito",
+              "openUrlAction": {
+                "url": "https://codigofacilito.com/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Gracias, tu registro se ha realizado con éxito. Nos vemos en el Hack."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
