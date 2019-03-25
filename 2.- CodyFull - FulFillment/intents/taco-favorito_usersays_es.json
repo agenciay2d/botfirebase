@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1fee052e-971b-479b-a519-e4f471b62144",
+    "data": [
+      {
+        "text": "mis ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " favoritos son de ",
+        "userDefined": false
+      },
+      {
+        "text": "cabeza",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac2f03d9-53b4-4daf-b1e6-156d97f39ee3",
+    "data": [
+      {
+        "text": "de ",
+        "userDefined": false
+      },
+      {
+        "text": "chorizo",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63e29e48-7be0-4ffd-98e2-f044ffd3cb95",
+    "data": [
+      {
+        "text": "los ",
+        "userDefined": false
+      },
+      {
+        "text": "campechanos",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67a69af6-b1fb-4731-8bec-8ac2d050514f",
+    "data": [
+      {
+        "text": "los de ",
+        "userDefined": false
+      },
+      {
+        "text": "canasta",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65e5e9b3-5033-445f-9208-d64efedfadbc",
+    "data": [
+      {
+        "text": "los de ",
+        "userDefined": false
+      },
+      {
+        "text": "pastor",
+        "alias": "tacos",
+        "meta": "@tacos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

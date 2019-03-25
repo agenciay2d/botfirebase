@@ -1,0 +1,35 @@
+{
+  "id": "bf56874e-2da2-4d9d-ac0c-fa78324cb4f5",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Bienvenido, Dime ¿Cuál es tu taco favorito? y te diré cuantos tacos te comes.",
+            "Hola, si quieres saber cuántos tacos te comes, dime ¿Cuál es tu taco favorito?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
