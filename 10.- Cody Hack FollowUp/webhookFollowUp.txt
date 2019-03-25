@@ -45,11 +45,11 @@
   /*
   switch(request.body,result.action){
   case 'RSVPHack':
-  Si la acciÃ³n es reservar ejecutamos lo que ya tenemos
+  Si la acción es reservar ejecutamos lo que ya tenemos
   break;
 
   case 'ShowRSVP':
-  Si la acciÃ³n es mostrar las reservas hacemos lo siguiente
+  Si la acción es mostrar las reservas hacemos lo siguiente
   break;
 
   default:
@@ -139,7 +139,7 @@
                       // now orders have something like this [ {...}, {...}, {...} ]
                       // converting array to speech
                       response.send({
-                          speech: `Tu tienes ${tickets.length} tickets, te gustarÃ­a verlos?`
+                          speech: `Tu tienes ${tickets.length} tickets, te gustaría verlos?`
                       });
                   })
                   .catch((err) => {

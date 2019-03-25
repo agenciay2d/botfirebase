@@ -1,0 +1,46 @@
+[
+  {
+    "id": "782ef0b7-9ef3-4928-8d1a-4b2c1511e0f0",
+    "data": [
+      {
+        "text": "Cuales son mis registros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef23b9e5-b040-41be-b2a5-80b6f392dff4",
+    "data": [
+      {
+        "text": "Muestrame mis tickets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f302916-72c3-411b-a9a9-43b4d2d82517",
+    "data": [
+      {
+        "text": "Cuales son mis boletos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec0c81bd-4d04-4709-ac5e-e159ae80290c",
+    "data": [
+      {
+        "text": "ShowRSVP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

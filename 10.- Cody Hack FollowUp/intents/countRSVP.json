@@ -1,0 +1,39 @@
+{
+  "id": "0a3b6096-fc31-4283-bfc4-2da4ee23b340",
+  "name": "countRSVP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "countRSVP",
+      "affectedContexts": [
+        {
+          "name": "ShowRSVP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es-419",
+          "speech": "Algo salió mal."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Algo salió mal."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

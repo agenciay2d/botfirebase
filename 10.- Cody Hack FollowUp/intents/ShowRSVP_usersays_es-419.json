@@ -1,0 +1,121 @@
+[
+  {
+    "id": "d83fb532-ee0b-4162-949c-925634f65a04",
+    "data": [
+      {
+        "text": "claro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ffba37d-a5ac-4b13-90dd-8b76e3fc08ce",
+    "data": [
+      {
+        "text": "adelante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "21c1e760-4acd-4469-aa65-d11b5df51619",
+    "data": [
+      {
+        "text": "buena idea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "e69657d1-ed2c-4c76-b6ee-4b4eb9cdea2b",
+    "data": [
+      {
+        "text": "por supuesto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "69f06cfd-6f3f-4ff0-8c7c-592ac5c24219",
+    "data": [
+      {
+        "text": "confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "56fc3808-8649-4e16-949c-9468f7901032",
+    "data": [
+      {
+        "text": "de acuerdo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "8a5c31bd-d485-474d-997d-29dcad529321",
+    "data": [
+      {
+        "text": "sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "11b22c22-9416-4fed-be87-7384addf036a",
+    "data": [
+      {
+        "text": "correcto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "00e2e4f6-d00a-4cac-a3df-a4d14586f3db",
+    "data": [
+      {
+        "text": "claro que sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  },
+  {
+    "id": "b4d889e7-5edd-42eb-bf7c-02197b8ce0a3",
+    "data": [
+      {
+        "text": "eso mismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497432757
+  }
+]

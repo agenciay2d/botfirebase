@@ -1,0 +1,38 @@
+{
+  "id": "afc92f80-9b00-4db3-9036-66c7e775d74b",
+  "parentId": "0a3b6096-fc31-4283-bfc4-2da4ee23b340",
+  "rootParentId": "0a3b6096-fc31-4283-bfc4-2da4ee23b340",
+  "name": "ShowRSVP",
+  "auto": true,
+  "contexts": [
+    "ShowRSVP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowRSVP",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es-419",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119017,
+  "fallbackIntent": false,
+  "events": []
+}
